@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # rtt-gazebo-lwr-integration
 RTT component using a Gazebo model pointer to integrate RTT and Gazebo for the Kuka LWR. Based on https://github.com/kuka-isir/rtt_lwr/tree/master/rtt_lwr_gazebo
 
